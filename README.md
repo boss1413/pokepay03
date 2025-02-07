@@ -3,7 +3,7 @@
 
 ## 注册pokepay平台账号
 
--访问官网：Pokepay官网https://app.pokepay.cc/pages/passport/register?r=155328
+-**访问官网**：Pokepay官网https://app.pokepay.cc/pages/passport/register?r=155328
 邀请码：155328
 
 -填写信息：使用邮箱或手机号注册账号，注意查看邮箱中的验证码，有时可能会在垃圾邮件中。
